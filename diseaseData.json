@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Diabetes:",
+    "symptoms": "Frequent urge to urinate, thirst, weight loss, blurry vision, numb or tingling hands or feet, constant fatigue, dry skin, have more infections than usual",
+    "url": "https://www.cdc.gov/diabetes/basics/diabetes.html"
+  },
+  {
+    "name": "Cardiovascular Diseases:",
+    "symptoms": "Numbness of the face, arm, or leg, especially on one side of the body, distraction, difficulty speaking or understanding speech, difficulty seeing with one or both eyes, difficulty walking, dizziness and/or loss of balance or coordination, headache, fainting or unconsciousness",
+    "url": "https://www.cdc.gov/heartdisease/index.htm"
+  },
+  {
+    "name": "Stroke:",
+    "symptoms": "Numbness of the face, arm or leg, especially on one side of the body, distraction, difficulty speaking or understanding speech, difficulty seeing with one or both eyes, difficulty walking, dizziness and/or loss of balance or coordination, headache",
+    "url": "https://www.cdc.gov/stroke/index.htm"
+  },
+  {
+    "name": "Breast Cancer:",
+    "symptoms": "Presence of masses in the chest or armpit, thickening or swelling of part of the breast, irritation or dimpling of breast skin, redness or flaky skin in the nipple area or the breast, pulling in of the nipple or pain in the nipple area, nipple discharge other than breast milk, including blood, change in the size or the shape of the breast, chest pain",
+    "url": "https://www.cdc.gov/cancer/breast/index.htm"
+  },
+  {
+    "name": "Chronic kidney disease:",
+    "symptoms": "high blood pressure, nausea and vomiting, loss of appetite, metallic taste in mouth, fatigue, weakness, trouble thinking, sleep issues, muscle twitches and cramps, swelling in feet and ankles, itching chest pain, shortness of breath",
+    "url": "https://www.cdc.gov/kidneydisease/index.html"
+  },
+  {
+    "name": "Alzheimer's disease:",
+    "symptoms": "Memory problem, distraction, confusion, mood swings, vision problems",
+    "url": "https://www.cdc.gov/aging/aginginfo/alzheimers.htm"
+  },
+  {
+    "name": "Cancer of the trachea, bronchi, lungs:",
+    "symptoms": "Cough for more than 2 weeks, coughing up blood, chest pain, hoarseness, loss of appetite, weight loss, shortness of breath, fatigue, weakness",
+    "url": "https://www.cdc.gov/cancer/lung/basic_info/what-is-lung-cancer.htm"
+  },
+  {
+    "name": "Lower Respiratory Tract Infections:",
+    "symptoms": "Cough, fever, muscle pain, headache, runny nose",
+    "url": "https://www.medicalnewstoday.com/articles/324413"
+  },
+  {
+    "name": "Colon and rectal cancer:",
+    "symptoms": "Feeling of discomfort and abdominal pain, bloating, constipation, diarrhea, blood in the stool, weight loss, weakness",
+    "url": "https://www.cdc.gov/cancer/colorectal/index.htm"
+  },
+  {
+    "name": "Chronic obstructive pulmonary disease:",
+    "symptoms": "Dyspnea, cough, wheezing, the formation of mucous sputum",
+    "url": "https://www.cdc.gov/copd/index.html"
+  },
+  {
+    "name": "Stomach cancer:",
+    "symptoms": "Fatigue, weight loss, persistent stomach discomfort, difficulty swallowing food, abdominal pain, bloated after eating, feeling full after eating small amounts of food, heartburn, nausea, vomit",
+    "url": "https://www.cancer.gov/types/stomach"
+  },
+  {
+    "name": "Intestinal infections:",
+    "symptoms": "Fever, headache, muscle aches, weakness, abdominal pain, loss of appetite, nausea, vomit, diarrhea",
+    "url": "https://www.cdc.gov/nceh/vsp/pub/faq/faq.htm#infectious"
+  },
+  {
+    "name": "Tuberculosis:",
+    "symptoms": "Cough for more than 2 weeks, chest pain, weight loss, presence of blood in sputum, sweating at night, elevated temperature, weakness",
+    "url": "https://www.cdc.gov/tb/default.htm"
+  }
+]

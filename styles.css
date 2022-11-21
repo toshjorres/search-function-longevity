@@ -1,0 +1,61 @@
+.hide {
+  display: none;
+}
+
+.search-wrapper {
+  width: 100;
+  min-height: 5vh;
+  padding: 5%;
+  background-color: #007bff;
+  background-position: center;
+}
+
+#search {
+  width: 100%;
+  max-width: 700px;
+  background: #007bff;
+  display: flex;
+  align-items: center;
+  border-radius: 60px;
+  border-color: white;
+  padding: 10px 20px;
+  font-family: "DM Sans";
+  font-size: 20px;
+}
+
+input {
+  color: white;
+}
+
+::placeholder {
+  color: white;
+}
+
+.user-cards {
+  margin-top: 10px;
+}
+
+.card {
+  border: 1px solid black;
+  border-color: #007bff;
+  padding: 2%;
+  max-width: 100%;
+  font-family: "DM Sans";
+  font-size: 18px;
+  background-color: rgba(0, 123, 255, 0.03);
+}
+
+div.name {
+  margin-bottom: 3px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 27px;
+  font-family: "DM Sans";
+  max-width: 100%;
+}
+
+div.url {
+  margin-top: 10px;
+  font-family: "DM Sans";
+  font-size: 15px;
+}
